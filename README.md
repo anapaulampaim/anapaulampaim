@@ -19,3 +19,22 @@ Estudante de Engenharia de Software, com uma experiência anterior de 5 anos em 
 
 Além disso, tenho habilidades em automação utilizando ferramentas como Cypress, Robot Framework e Selenium. Essas ferramentas têm me permitido otimizar os processos de teste, garantindo uma entrega mais eficiente e confiável. Meus conhecimentos em metodologias ágeis também são aplicados na realização dos testes, permitindo uma abordagem mais flexível e adaptável às necessidades do projeto. Estou sempre buscando aprender e me desenvolver na área de Testes e Qualidade de Software, contribuindo para a entrega de produtos de alta qualidade e satisfação do usuário.
 
+### Frameworks
+---
+
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]()   [![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)]() ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) [![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)]()
+ 
+
+<br>
+
+### IDE
+---
+
+[![vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()  [![Nodepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)]()  [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()  
+
+<br>
+
+### Cloud
+---
+
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)]()
