@@ -1,4 +1,4 @@
-Olá, sou a Ana Paula!👋
+Olá, sou a Ana Paula!👋<br>
 Estudante de Engenharia de Software, com uma experiência anterior de 5 anos em design. Durante esse período, pude perceber a <b><i>importância da qualidade do software</i></b>, desde a estrutura do código até a interface adaptável que corresponda às necessidades do usuário. Atualmente, estou focada em realizar diversos tipos de testes, garantindo a robustez e a usabilidade dos produtos de software. Entre os testes que executo estão:
 
 📌Testes de Caixa Branca: 
