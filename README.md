@@ -1,24 +1,22 @@
-<h1>Olá, sou a Ana Paula!👋</h1><br>
-Estudante de Engenharia de Software, com uma experiência anterior de 5 anos em design. Durante esse período, pude perceber a <b><i>importância da qualidade do software</i></b>, desde a estrutura do código até a interface adaptável que corresponda às necessidades do usuário. Atualmente, estou focada em realizar diversos tipos de testes, garantindo a robustez e a usabilidade dos produtos de software.<br> Entre os testes que executo estão:<br><br>
+<h1>Olá, sou a Ana Paula! 👋</h1>
 
-📌 Testes de Caixa Branca:
-<ul>
-<li>Testes de Integração</li>
-<li>Testes de Caminho</li>
-<li>Testes de Condição</li>
-</ul><br>
+Profissional de Qualidade de Software (QA), com experiência anterior de mais de 5 anos em Design Gráfico. Essa trajetória me proporcionou uma visão voltada para a experiência do usuário, usabilidade e atenção aos detalhes, competências que hoje aplico para garantir a qualidade de produtos de software.
 
-📌 Testes de Caixa Preta:
-<ul>
-<li>Testes Funcionais </li>
-<li>Testes de Aceitação do Usuário </li>
-<li>Testes de Regressão </li>
-<li>Testes de Usabilidade </li>
-<li>Testes de Integração do Sistema</li>
-</ul><br>
+Atuo no planejamento, execução e documentação de testes, identificando falhas e contribuindo para a entrega de aplicações mais estáveis, confiáveis e alinhadas às necessidades dos usuários.
 
-Além disso, tenho habilidades em automação utilizando ferramentas como Cypress, Robot Framework e Selenium. Essas ferramentas têm me permitido otimizar os processos de teste, garantindo uma entrega mais eficiente e confiável. Meus conhecimentos em metodologias ágeis também são aplicados na realização dos testes, permitindo uma abordagem mais flexível e adaptável às necessidades do projeto. Estou sempre buscando aprender e me desenvolver na área de Testes e Qualidade de Software, contribuindo para a entrega de produtos de alta qualidade e satisfação do usuário.
+Entre os testes que realizo estão:
 
+📌 Testes Funcionais
+
+<ul> <li>Testes Funcionais</li> <li>Testes de Regressão</li> <li>Testes de Aceitação do Usuário (UAT)</li> <li>Testes de Usabilidade</li> <li>Testes de Integração</li> </ul>
+
+📌 Automação de Testes
+
+<ul> <li>Cypress</li> <li>Robot Framework</li> <li>Selenium</li> </ul>
+
+Também possuo experiência com documentação de testes, criação de casos e cenários de teste, reporte e acompanhamento de bugs, além da utilização de metodologias ágeis para colaborar com equipes multidisciplinares durante todo o ciclo de desenvolvimento.
+
+Busco constantemente aprimorar meus conhecimentos e acompanhar as melhores práticas de Qualidade de Software, contribuindo para a entrega de soluções confiáveis, eficientes e com foco na melhor experiência para o usuário.
 ### Frameworks
 ---
 
